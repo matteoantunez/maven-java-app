@@ -27,7 +27,7 @@ In PowerShell, enter the following commands:
 ```PowerShell
 > mvn archetype:generate
 > [Choose Number] (or) [Enter for Default]
-> [Enter for Default]
+> [Enter for Default] [^1]
 > [Enter groupID]
 > [Enter repo name]
 > [Enter for Default]
@@ -35,3 +35,4 @@ In PowerShell, enter the following commands:
 > [Enter 'Y' to Confirm]
 ```
 
+[^1]: Test Footntoe
