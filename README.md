@@ -38,3 +38,10 @@ In PowerShell, enter the following commands:
 >**: Option to change value for version; Defualt is best\
 >*** Option to change value for package; Default is best\
 >****: Confirm settings are correct
+
+## Moving project to repo
+Before we can move our project to our GitHub repo, we need to run the following command to get rid of the *target* folder in our project
+
+```PowerShell
+mvn clean
+```
