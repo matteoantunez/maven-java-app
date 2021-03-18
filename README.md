@@ -40,8 +40,17 @@ In PowerShell, enter the following commands:
 >****: Confirm settings are correct
 
 ## Moving project to repo
-Before we can move our project to our GitHub repo, we need to run the following command to get rid of the *target* folder in our project
+Before we can move our project to our GitHub repo, we need to run the following command in PowerShell to get rid of the *target* folder in our project
 
 ```PowerShell
-mvn clean
+> mvn clean
 ```
+After the above command has been ran, select the following items and paste them in the root folder of your repository:
+
+Folders:
+* src
+
+Files:
+* .classpath
+* .project
+* pom.xml
