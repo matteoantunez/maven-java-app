@@ -51,6 +51,4 @@ Folders:
 * src
 
 Files:
-* .classpath
-* .project
 * pom.xml
