@@ -34,7 +34,7 @@ In PowerShell, enter the following commands:
 > [Enter for Default]***
 > [Enter 'Y' to Confirm]****
 ```
->*: Option to choose different version; Default is best
->**: Option to change value for version; Defualt is best
->*** Option to change value for package; Default is best
+>*: Option to choose different version; Default is best\
+>**: Option to change value for version; Defualt is best\
+>*** Option to change value for package; Default is best\
 >****: Confirm settings are correct
