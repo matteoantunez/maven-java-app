@@ -27,13 +27,14 @@ In PowerShell, enter the following commands:
 ```PowerShell
 > mvn archetype:generate
 > [Choose Number] (or) [Enter for Default]
-> [Enter for Default] [^1]
+> [Enter for Default]*
 > [Enter groupID]
 > [Enter repo name]
-> [Enter for Default]
-> [Enter for Default]
-> [Enter 'Y' to Confirm]
-
-[^1]: Test Footntoe
+> [Enter for Default]**
+> [Enter for Default]***
+> [Enter 'Y' to Confirm]****
 ```
-
+*: Option to choose different version; Default is best
+**: Option to change value for version; Defualt is best
+*** Option to change value for package; Default is best
+****: Confirm settings are correct
